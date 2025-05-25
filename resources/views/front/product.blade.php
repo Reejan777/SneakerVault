@@ -16,7 +16,7 @@
 @section('content')
     <!-- product heading -->
     <section class="product">
-        <div class="container ">
+        <div class="container">
             <div class="row mb-5">
                 <div class="col-md-12">
                     <div class="text-hero-bold text-center">

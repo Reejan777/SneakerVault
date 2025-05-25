@@ -79,6 +79,6 @@ Route::group(['prefix' => 'vendor', 'middleware' => 'auth:vendor'], function () 
 
 });
 
-Route::resource('uploader', \App\Http\Controllers\UploadController::class);
+// Route::resource('uploader', \App\Http\Controllers\UploadController::class);
 
 

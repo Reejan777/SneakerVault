@@ -103,7 +103,7 @@
             </div>
             <div class="col-md-3 text-center text-md-start">
                 <div class="text-label-medium">Follow</div>
-                <div class="text-label-regular">Instagram</div>
+                <a href="https://www.instagram.com/" target="_blank"><div style="color: white;">Instagram</div></a>
                 <div class="text-label-regular">Facebook</div>
             </div>
         </div>
